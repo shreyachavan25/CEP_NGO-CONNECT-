@@ -40,7 +40,11 @@ The project documentation and presentations are available in Microsoft Office fi
 - **Program:** B.Tech. in Artificial Intelligence and Machine Learning
 
 ### 👥 Contributors
-Add the names of the project team members and their respective contributions here.
+1. Anushri Shinde
+2. Shravani Asawale
+3. Shreya Chavan
+4. Diya Telnade
+5. Pradnya Desai
 
 ### 📄 License
 This repository is intended for academic and educational purposes.
